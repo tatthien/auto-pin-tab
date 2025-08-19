@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Pin Tab",
+  "version": "1.0.0",
+  "description": "Automatically pin new tabs",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "tabs"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "options_page": "options.html",
+  "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
