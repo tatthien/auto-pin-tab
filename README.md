@@ -4,6 +4,8 @@
 
 # Auto Pin Tab
 
+> This extension is a replacement for my favorite extension [Pin Tab](https://chromewebstore.google.com/detail/pin-tab/dgldedkigbbalaioohedddpameekglma) which is no longer available.
+
 A Chrome extension that automatically pins new tabs as they are created. This extension helps you keep your workspace organized by ensuring new tabs are always pinned and visible at the beginning of your tab bar.
 
 ## Features
