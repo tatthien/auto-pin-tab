@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="public/icon.png" alt="Auto Pin Tab Logo" width="128" height="128">
+</div>
+
 # Auto Pin Tab
 
 A Chrome extension that automatically pins new tabs as they are created. This extension helps you keep your workspace organized by ensuring new tabs are always pinned and visible at the beginning of your tab bar.
